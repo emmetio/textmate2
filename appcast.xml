@@ -11,7 +11,7 @@
                 http://download.emmet.io/textmate2/RELEASE-101.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 14 Aug 2016 20:36:56 +0000</pubDate>
-            <enclosure url="https://github.com/emmetio/textmate2/releases/download/v1.0.1/EmmetTextMate.tmplugin.zip" sparkle:version="1.0.1" length="3382423" type="application/octet-stream" sparkle:dsaSignature="MC0CFDWV55wFfEM+30SyUAmzXJbzHQERAhUAm7wVAcN9cYIS497PkU+eWp6VR2c=" />
+            <enclosure url="https://github.com/emmetio/textmate2/releases/download/v1.0.1/EmmetTextMate.tmplugin.zip" sparkle:version="1.0.1" length="3434122" type="application/octet-stream" sparkle:dsaSignature="MCwCFA2Np0Zy7o/Jsaa39VPPVTaH/panAhQx4hv5tbLw66+0Lz3fDgJGcIgxbA==" />
             <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
         </item>
     </channel>

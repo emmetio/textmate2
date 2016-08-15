@@ -5,14 +5,5 @@
         <link>https://github.com/emmetio/textmate2/raw/master/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
-        <item>
-            <title>Version 1.0.1</title>
-            <sparkle:releaseNotesLink>
-                http://download.emmet.io/textmate2/RELEASE-101.html
-            </sparkle:releaseNotesLink>
-            <pubDate>Sun, 14 Aug 2016 20:36:56 +0000</pubDate>
-            <enclosure url="https://github.com/emmetio/textmate2/releases/download/v1.0.1/EmmetTextMate.tmplugin.zip" sparkle:version="1.0.1" length="3434122" type="application/octet-stream" sparkle:dsaSignature="MCwCFA2Np0Zy7o/Jsaa39VPPVTaH/panAhQx4hv5tbLw66+0Lz3fDgJGcIgxbA==" />
-            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-        </item>
     </channel>
 </rss>
